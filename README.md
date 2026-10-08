@@ -1,19 +1,14 @@
 # SAP S/4HANA Order-to-Cash Functional Design
 
-This repository contains the functional design document for an Order-to-Cash (O2C) scenario in SAP S/4HANA.
+The repository contains a professional functional design document for an Order-to-Cash (O2C) scenario in SAP S/4HANA.
 
-## Download
+## Files
 
-- Word-compatible RTF document: [O2C_S4HANA_Functional_Design.rtf](./O2C_S4HANA_Functional_Design.rtf)
-- Open the .rtf file in Microsoft Word or another compatible editor.
+- [O2C_S4HANA_Functional_Design.rtf](./O2C_S4HANA_Functional_Design.rtf) — Word-compatible rich text document for direct viewing/editing in Microsoft Word
+- [O2C_S4HANA_Process_Flow.md](./O2C_S4HANA_Process_Flow.md) — process flow diagram in Mermaid format for easy embedding in docs or Markdown viewers
 
-## Contents
+## Notes
 
-The document covers:
-- Business scope and objectives
-- O2C process flow
-- Sales order, delivery, billing, and payment steps
-- Master data and integration points
-- Credit management and exception handling
-- KPIs and controls
-- SDLC implementation alignment
+- The .rtf file is the most practical format for Word compatibility in this environment.
+- Open it in Microsoft Word and save it as .docx if needed.
+- The process diagram is included as a visual flow for presentation use.
